@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class GuessThePermutation{
  public static void main(String[] args)
    { 
   Scanner sc=new Scanner(System.in);
@@ -26,13 +26,11 @@ public class Main{
    for(int i=0;i<n;i++) {
    nos[sol[i]]=true;
    }
-  // System.out.println(Arrays.toString(nos));
  
    for(int i=1;i<n+1;i++) {
-    if(nos[i]==false) {
+    if(!nos[i]) {
      for(int j=0;j<n;j++) {
       if(sol[j]==i-1) {
-      // System.out.println(Arrays.toString(sol));
        sol[j]=sol[j]+1;
        
        break;
