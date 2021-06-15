@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class Dragons{
  
  public static void main(String[] args)
    {
