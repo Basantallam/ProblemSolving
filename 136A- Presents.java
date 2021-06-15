@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.*; 
 import java.util.*; 
-public class subtraction
+public class Presents
 { 
  public static void main(String[] args){  
     Scanner inpt=new Scanner(System.in);
