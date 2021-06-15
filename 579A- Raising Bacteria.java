@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.TreeSet;
 public class RaisingBacteria {
 
-    public static void main(String[] args)  {    
+    public static void main(String[] args) throws IOException {    
        int n;
        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
        int c=0;
