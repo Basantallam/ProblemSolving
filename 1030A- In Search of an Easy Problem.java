@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class subtraction
+public class InSearchOfAnEasyProblem
 { 
  public static void main(String[] args){  
     Scanner inpt=new Scanner(System.in);
