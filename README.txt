@@ -1,5 +1,7 @@
 #Tags and Ratings of solved problems
 
+This Repo contains a small portion of my solutions, for more please visit https://codeforces.com/submissions/Basant.Allam
+
 1343C
 Tags ->  ['dp', 'greedy', 'two pointers']
 Rating ->  1200
