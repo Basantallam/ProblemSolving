@@ -1,4 +1,4 @@
-#Tags and Ratings of solved problems
+#Tags and Ratings of the problems I solved on codeforces
 
 This Repo contains a small portion of my solutions, for more please visit https://codeforces.com/submissions/Basant.Allam
 
