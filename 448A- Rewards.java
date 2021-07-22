@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.*;
-public final class hihello {
+public final class Rewards {
   public static void main(String[] args){  
      Scanner inpt=new Scanner(System.in);
      double cups=0;
