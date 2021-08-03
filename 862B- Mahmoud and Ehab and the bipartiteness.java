@@ -29,8 +29,8 @@ public class MahmoudAndEhabAndTheBipartiteness { //Observation based solution
         dfs(0, true);
 
         System.out.println(Even * Odd - n + 1);
-
     }
+
     public static void dfs(int u, boolean odd){
         visited[u]=true;
         if (odd) Odd++;
