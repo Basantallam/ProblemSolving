@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.*; 
 import java.util.*;
 import java.lang.*;
-public final class hihello {
+public final class BeautifulMatrix {
   public static void main(String[] args){  
      Scanner inpt=new Scanner(System.in);
      String [] a=new String[6];

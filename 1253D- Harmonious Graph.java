@@ -26,7 +26,7 @@ public class HarmoniousGraph {
             arr[i][0]=x-1;
             arr[i][1]=y-1;
             set.add(new Pair(x-1,y-1));
-            max=Math.max(max,Math.max(x,y));
+            max=Math.max(max,y);
         }
         UnionFind uf = new UnionFind(max); //DSU
 

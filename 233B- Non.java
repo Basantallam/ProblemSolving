@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-public class Main {
+public class Non {
   public static void main(String[] args) throws IOException {
     Scanner sc=new Scanner(System.in);
     long c=sc.nextLong(); // ax^2 +bx-c=0 (a=1) (b=s(x) (c=input)
