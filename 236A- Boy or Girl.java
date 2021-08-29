@@ -1,13 +1,11 @@
 import java.util.*;
  
 import java.util.TreeSet;
-public class Yalla {
- 
+public class BoyOrGirl {
  
     public static void main(String[] args)  {
     
-     TreeSet<String> set = new TreeSet<>();
-     
+     TreeSet<String> set = new TreeSet<>();    
      Scanner s= new Scanner(System.in);
      String name=s.next();
      for(int i=0;i<name.length();i++) {
