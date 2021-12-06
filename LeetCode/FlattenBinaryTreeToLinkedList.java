@@ -17,10 +17,8 @@ class Solution {
     public void flat(TreeNode root) {
         flatten(root);
     }
-    int x=0;
     public Pair<TreeNode,TreeNode> flatten (TreeNode root){
 
-        x++;
         if(root==null) return null;
         Pair<TreeNode,TreeNode> ans;
         if(root.left==null&&root.right==null){
